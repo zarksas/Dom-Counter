@@ -1,0 +1,27 @@
+body {
+    margin: auto;
+    text-align: center;
+}
+
+p {
+    margin: 0;
+}
+
+.window {
+    width: 300px;
+    height:  100px;
+    border: 3px solid darkslateblue;
+    border-radius: 20px;
+    font-size: 40px;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 20px;
+    line-height: 100px;
+    color: darkslateblue;
+}
+
+button {
+    height: 30px;
+    background-color: darkslateblue;
+    color: white;
+}
